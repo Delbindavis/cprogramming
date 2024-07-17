@@ -40,6 +40,7 @@ int main()
             printf("z=%d",z);
             break;
     }
+    printf("%s",z?"True\n":"False\n");
 return 0;
 }
 
